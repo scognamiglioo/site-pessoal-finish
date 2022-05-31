@@ -1,0 +1,160 @@
+/*
+.caixa-eu{
+    border: 1px solid #777;
+    box-sizing: border-box;
+    border-radius: 10px;
+    display: flex;
+    flex: wrap;
+    justify-content: space-between;
+    flex: 1 1 auto;
+    margin: 2px;
+  }
+  */
+
+
+
+
+
+
+.header {
+  background-color: #ddbea9;
+  margin: 2px;
+}
+
+p {
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex: 1 1 auto;
+}
+
+.titulo {
+  text-align: right, justify;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-style: italic;
+  flex: wrap;
+  display: flex;
+  flex-direction: row;
+  margin: 20px;
+}
+
+[src] {
+  float: center, right;
+  max-height: 700px;
+  max-width: 350px;
+  display: flex;
+  flex: wrap;
+  margin: 25px;
+
+}
+
+.cor1 {
+  background-color: #ece4db;
+}
+
+
+.projeto {
+  float: center;
+  max-height: 250px;
+  max-width: 300px;
+}
+
+
+.area-card {
+    float: center;
+}
+
+
+
+.card-img-top {
+  float: center;
+  max-width: 200px;
+  max-height: 250px;
+}
+
+
+#dropdownMenuButton1 {
+    float: center;
+}
+
+
+h2 {
+  text-align: right, justify;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-style: italic;
+  flex: wrap;
+  display: flex;
+  flex-direction: row;
+  margin: 1px;
+  padding: 1px;
+}
+
+
+.col {
+  display: flex;
+  flex: wrap;
+  margin: 2px;
+  padding: 2px;
+ 
+}
+
+.titulo3 {
+    text-align: right;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-style: italic;
+    flex: wrap;
+    display: flex;
+    flex-direction: row;
+    margin: 1px;
+    
+}
+
+.navbar-brand {
+  text-align: right;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-style: italic;
+  font-size: 90px;
+  flex: wrap;
+  display: flex;
+  flex-direction: row;
+  margin: 1px;
+}
+
+
+
+.footer {
+  background-color: #ddbea9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    font-family: sans-serif;
+    padding: 2px;
+  }
+
+.list-group-item {
+  text-align: center;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-style: italic;
+  flex: wrap;
+  display: flex;
+  flex-direction: row;
+  margin: 1px;
+}
+
+
+.cardstyle {
+  float: center;
+  margin-right: 20px;
+  padding: 7px;
+}
+
+
+
+
+
+
+
